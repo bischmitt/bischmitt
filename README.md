@@ -26,6 +26,8 @@
 ![Java](https://img.shields.io/badge/-Java-2c292d?&logo=Java)
 ![SQL](https://img.shields.io/badge/-mySQL-2c292d?&logo=mySQL)
 
+![Postman](https://img.shields.io/badge/-Postman-2c292d?&logo=Postman)
+![Express](https://img.shields.io/badge/-Express-2c292d?&logo=Express)
 
 # Statistics
 
