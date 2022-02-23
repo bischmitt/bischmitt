@@ -19,8 +19,6 @@
 
 ![FireBase](https://img.shields.io/badge/-FireBase-2c292d?&logo=FireBase)
 ![jquery](https://img.shields.io/badge/-JQuery-2c292d?&logo=jquery)
-<!-- ![Git](https://img.shields.io/badge/-Git-2c292d?&logo=Git) -->
-<!-- ![Linux](https://img.shields.io/badge/-Linux-2c292d?&logo=Linux) -->
 ![Node.js](https://img.shields.io/badge/-Node.js-2c292d?&logo=node.js)
 ![Angular](https://img.shields.io/badge/-Angular-2c292d?&logo=Angular)
 ![Redis](https://img.shields.io/badge/-Redis-2c292d?&logo=Redis)
