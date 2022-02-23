@@ -5,29 +5,33 @@
 # A few developing technologies I use
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=c64f68)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=c64f68)
+![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=c64f68)
 ![](https://img.shields.io/badge/Controle_de_versão-GIT-informational?style=flat&logo=git&logoColor=white&color=c64f68)
 
 
 # Languages & Frameworks
 ![Javascript](https://img.shields.io/badge/-Javascript-2c292d?&logo=Javascript)
+![Angular](https://img.shields.io/badge/-Angular-2c292d?&logo=Angular)
 ![Typescript](https://img.shields.io/badge/-Typescript-2c292d?&logo=Typescript)
 ![Sass](https://img.shields.io/badge/-Sass-2c292d?&logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS3-2c292d?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML5-2c292d?&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2c292d?&logo=Bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-2c292d?&logo=MongoDB)
+![jquery](https://img.shields.io/badge/-JQuery-2c292d?&logo=jquery)
+![Figma](https://img.shields.io/badge/-Figma-2c292d?&logo=Figma)
+
 
 ![FireBase](https://img.shields.io/badge/-FireBase-2c292d?&logo=FireBase)
-![jquery](https://img.shields.io/badge/-JQuery-2c292d?&logo=jquery)
-![Node.js](https://img.shields.io/badge/-Node.js-2c292d?&logo=node.js)
-![Angular](https://img.shields.io/badge/-Angular-2c292d?&logo=Angular)
-![Redis](https://img.shields.io/badge/-Redis-2c292d?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-2c292d?&logo=Spring)
-![Java](https://img.shields.io/badge/-Java-2c292d?&logo=Java)
+![MongoDB](https://img.shields.io/badge/-MongoDB-2c292d?&logo=MongoDB)
 ![SQL](https://img.shields.io/badge/-mySQL-2c292d?&logo=mySQL)
-
-![Postman](https://img.shields.io/badge/-Postman-2c292d?&logo=Postman)
+![Node.js](https://img.shields.io/badge/-Node.js-2c292d?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-2c292d?&logo=Express)
+![Java](https://img.shields.io/badge/-Java-2c292d?&logo=Java)
+![Spring](https://img.shields.io/badge/-Spring-2c292d?&logo=Spring)
+![Redis](https://img.shields.io/badge/-Redis-2c292d?&logo=Redis)
+![Postman](https://img.shields.io/badge/-Postman-2c292d?&logo=Postman)
+
+
 
 # Statistics
 
