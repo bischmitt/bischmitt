@@ -2,12 +2,13 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=👩%20Bianca%20Klein%20Schmitt;💻%20Full-Stack%20Web%20Developer;📍Florianópolis,%20Brazil;📚%20Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 
 **[take a look at my portfolio](https://bischmitt.github.io/portfolio/)**
+<a href="https://bischmitt.github.io/portfolio/">![](https://img.shields.io/badge/-take_a_look_my_portfolio-c64f68)</a>
 
 # A few developing technologies I use
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=c64f68)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=c64f68)
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=c64f68)
-![](https://img.shields.io/badge/Controle_de_versão-GIT-informational?style=flat&logo=git&logoColor=white&color=c64f68)
+![](https://img.shields.io/badge/Version_Control-GIT-informational?style=flat&logo=git&logoColor=white&color=c64f68)
 
 
 # Languages & Frameworks
