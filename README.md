@@ -3,7 +3,7 @@
 
   
   
- <a href="https://bischmitt.github.io/portfolio/">![](https://img.shields.io/badge/-Take_a_look_my_portfolio-c64f68)</a>
+ <a href="https://bischmitt.github.io/portfolio/">![](https://img.shields.io/badge/-Take_a_look_at_my_portfolio-c64f68)</a>
 
 # A few developing technologies I use
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=c64f68)
